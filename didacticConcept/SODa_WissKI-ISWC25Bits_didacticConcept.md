@@ -154,6 +154,10 @@ SODa also fosters exchange and collaboration across communities through contribu
 
 SODa is funded by the German Federal Ministry of Education and Research (BMBF) and NextGenerationEU under funding code 16DKZ2016B.
 
+![](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/BMFTR_de_DTP_CMYK_gef_durch.svg)<!--width="50%"--> ![](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/funding_EU.png)<!--width="50%"--> 
+
+
+
 ## Partners
 
 * The Coordination Office for Academic University Collections in Germany at Humboldt-Universität zu Berlin
