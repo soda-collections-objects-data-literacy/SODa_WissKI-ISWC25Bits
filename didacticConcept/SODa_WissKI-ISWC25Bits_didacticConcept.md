@@ -56,11 +56,25 @@ This promotes sustainable action competence, especially with complex digital too
 |-------------------------------------------------      |--------------------------------------------------|
 | **Analyzing – Capturing – Modeling**               | **Creating – Enriching – Web Developing**        |
 | **分析 - キャプチャ - モデリング**                     | **作成 - 拡張 - ウェブ開発**                     |
-| Introduction, orientation, warm-up (input)            | From draw.io to WissKI Pathubuilder (individual activity) |
+| Introduction, orientation, warm-up (input)            | From draw.io to WissKI Pathubuilder (individual activity) \*|
 | WissKI in a nutshell (input)                          | Data editing and querying (group work, input)  |
 | Identify core entities from a collection (group work) | Where is WissKI heading? (input)          |
 | Entity mapping, ontology modeling in draw.io (individual activity) | Group discussion and feedback         |
 | Group discussion and feedback                 | –                                                |
+
+
+\* [FORTH-ICS](https://www.ics.forth.gr/) has contributed the development of a web service that
+
+a) parses draw.io diagrams according to a json configuration file, 
+b) identifies specific paths originating from a central node 
+c) applies syntactic validation of these paths against a set of online ontology files specified in the json configuration file, and 
+d) exports the identified ontology paths to a Pathbuilder XML file. 
+
+The generated Pathbuilder XML files are essentially used in order to define application profiles in WissKI installations, so that the end-user interface for the input of research data, remains as simple as possible, making transparent the complexity that is followed for the data storage structure according to the underlying ontology.
+
+As a future extension, I think we could refer to semantic validation according to the specified ontologies. (I think this feature has not yet been applied and would actually respond to cases where a property has defined a class as a domain/range that is not valid according to the ontology).
+
+
 
 ## Learning Objectives
 
@@ -194,3 +208,4 @@ The CoVHer Repository ( repository.covher.eu) showcases a strong WissKI-based im
 <img src="https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/funding_EU.png" width="150">
 
 [![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
