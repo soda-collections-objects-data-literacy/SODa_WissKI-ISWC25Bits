@@ -46,7 +46,7 @@ Participants do not need prior experience with [WissKI](https://wiss-ki.eu/) and
 
 ## Teaching Strategy
 
-**Demonstrative Learning**, **Learning by Doing**, and **Modeling form** together form an effective trio for software-based OERs: learners see real application steps, understand the processes behind them and try out what is shown for themselves. 
+Demonstrative learning, learning by doing, and modeling together form an effective trio for software-based OERs: learners see real application steps, understand the processes behind them, and try out what is shown themselves.
 
 This promotes sustainable action competence, especially with complex digital tools from WissKI to SPARQL editors.
 
@@ -210,6 +210,7 @@ The CoVHer Repository ( repository.covher.eu) showcases a strong WissKI-based im
 <img src="https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/funding_EU.png" width="150">
 
 [![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
 
 
 
