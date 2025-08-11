@@ -5,6 +5,7 @@
   --color-highlight-menu: var(--soda-light);
   --color-highlight: var(--soda-light);
   --font-size-base: 22px; /* ergänzte Standard-Schriftgröße */
+  --font-size-base1: 12px; /* ergänzte Standard-Schriftgröße */
 }
 
 body {
@@ -14,7 +15,7 @@ body {
 
 head {
   font-family: 'Noto Sans', sans-serif;
-  font-size: var(--font-size-base); /* Schriftgröße anwenden */
+  font-size: var(--font-size-base1); /* Schriftgröße anwenden */
 }
 
 h1, h2, h3, h4, h5, h6 {
