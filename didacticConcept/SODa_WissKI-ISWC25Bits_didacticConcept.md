@@ -126,7 +126,7 @@ Using WissKI and the Erlangen CRM, participants engage in hands-on practice and 
 
 ![](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/hastik.jpg)<!--width="100%"--> 
 
-The tutorial is led by **Dr. Canan Hastik** ([Interessensgemeinschaft für Semantische Datenverarbeitung (IGSD e.V.)](https://igsd-ev.de), c.hastik@igsd-ev.de), a research expert in structured and graph data analysis, research data management (RDM), and digital/data science, with a focus on the Digital Humanities and scientific object collections. She holds a PhD from the [Institute for Language & Literature Studies at TU Darmstadt](https://www.linglit.tu-darmstadt.de/aktuelles_10/index.de.jsp) (2019), following a master’s degree in Information Science & Engineering and a diploma in Information & Knowledge Management with a specialization in library science.
+The tutorial is led by **Dr. Canan Hastik** [Interessensgemeinschaft für Semantische Datenverarbeitung (IGSD e.V.)](https://igsd-ev.de), c.hastik@igsd-ev.de), a research expert in structured and graph data analysis, research data management (RDM), and digital/data science, with a focus on the Digital Humanities and scientific object collections. She holds a PhD from the [Institute for Language & Literature Studies at TU Darmstadt](https://www.linglit.tu-darmstadt.de/aktuelles_10/index.de.jsp) (2019), following a master’s degree in Information Science & Engineering and a diploma in Information & Knowledge Management with a specialization in library science.
 
 
 Her research centers on heterogeneous data integration, semantic infrastructures, and ontology-driven modeling, as well as the development of didactically grounded Open Educational Resources (OERs) for FAIR data publication, research data management, data literacy, and data science. She has led and contributed to numerous national and international projects in the fields of digital humanities, education, and library and information science.
@@ -151,9 +151,9 @@ Her research centers on heterogeneous data integration, semantic infrastructures
 
 ![](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/Tzortzakakis1.jpg)<!--width="100%"--> 
 
-Elias Tzortzakakis is a Research & Development engineer, member of the Centre for Cultural Informatics (CCI)[https://www.ics.forth.gr/isl/centre-cultural-informatics] of the Information Systems Laboratory (ISL) at the Institute of Computer Science (ICS)[https://www.ics.forth.gr/isl/] of the Foundation for Research and Technology – Hellas (FORTH)[https://www.forth.gr/en/home/] since 2008. He holds a Master of Science in Information Systems (AUEB)[https://www.aueb.gr/en] and a diploma in Electrical and Computer Engineering (NTUA)[https://ntua.gr/en/].
+Elias Tzortzakakis is a Research & Development engineer, member of the Centre for Cultural Informatics [CCI](https://www.ics.forth.gr/isl/centre-cultural-informatics) of the Information Systems Laboratory (ISL) at the Institute of Computer Science [ICS](https://www.ics.forth.gr/isl/) of the Foundation for Research and Technology – Hellas [FORTH](https://www.forth.gr/en/home/) since 2008. He holds a Master of Science in Information Systems [AUEB](https://www.aueb.gr/en) and a diploma in Electrical and Computer Engineering [NTUA](https://ntua.gr/en/).
 
-He has expertise in CIDOC-CRM, conceptual modelling, semantic data, services, terminology and documentation management systems, applications for cultural heritage and thesauri development. He has been the project manager of collaboration projects with the Germanisches Nationalmuseum (GNM)[https://www.gnm.de/] and the technical coordinator in both European and National funded research projects.
+He has expertise in CIDOC-CRM, conceptual modelling, semantic data, services, terminology and documentation management systems, applications for cultural heritage and thesauri development. He has been the project manager of collaboration projects with the Germanisches Nationalmuseum [GNM](https://www.gnm.de/) and the technical coordinator in both European and National funded research projects.
 
 
 ## SODa Project and Contact
@@ -208,5 +208,6 @@ The CoVHer Repository ( repository.covher.eu) showcases a strong WissKI-based im
 <img src="https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/funding_EU.png" width="150">
 
 [![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
 
 
