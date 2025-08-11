@@ -1,6 +1,6 @@
 # SODa_WissKI-ISWC25Bits
 
-## Detailed Descrition
+## Detailed Description
 
 
 The tutorial offers a step-by-step, interactive introduction to semantic modeling and data curation using WissKI (Wissenschaftliche Kommunikations-Infrastruktur)
@@ -53,3 +53,4 @@ framework for sustainable data modeling and publication.
 13. Hastik, C., Fichtner, M. and Schwenk, G. (2025) WissKI Unterstützungsangebot: SWOT-Analyse und Auswertung, https://zenodo.org/records/15274046
 
 [![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
