@@ -67,10 +67,10 @@ The morning slot focuses on bridging theory and practice through conceptual anal
 
 \* [FORTH-ICS](https://www.ics.forth.gr/) has contributed the development of a web service that
 
-a) parses draw.io diagrams according to a json configuration file, 
-b) identifies specific paths originating from a central node 
-c) applies syntactic validation of these paths against a set of online ontology files specified in the json configuration file, and 
-d) exports the identified ontology paths to a Pathbuilder XML file. 
+* parses draw.io diagrams according to a json configuration file, 
+* identifies specific paths originating from a central node 
+* applies syntactic validation of these paths against a set of online ontology files specified in the json configuration file, and 
+* exports the identified ontology paths to a Pathbuilder XML file. 
 
 The generated Pathbuilder XML files are essentially used in order to define application profiles in WissKI installations, so that the end-user interface for the input of research data, remains as simple as possible, making transparent the complexity that is followed for the data storage structure according to the underlying ontology.
 
@@ -210,6 +210,7 @@ The CoVHer Repository ( repository.covher.eu) showcases a strong WissKI-based im
 <img src="https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/funding_EU.png" width="150">
 
 [![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
 
 
 
