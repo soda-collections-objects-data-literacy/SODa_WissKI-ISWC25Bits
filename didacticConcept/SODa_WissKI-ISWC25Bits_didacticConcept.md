@@ -206,9 +206,10 @@ Hastik, C.; Schwenk, G., and Reichert, R. (2025) [How OERs Succeed with the Lear
 
 The CoVHer Repository ( repository.covher.eu) showcases a strong WissKI-based implementation for publishing 3D reconstructions with rich semantic metadata. It documents not only the models but also the research and modeling processes using CIDOC CRM and related ontologies — enabling transparency, reuse, and FAIR data practices in cultural heritage.
 
-<img src="https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/BMFTR_en_DTP_CMYK_gef_durch.jpg" width="100"> <img src="https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/funding_EU.png" width="100">
+<img src="https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/BMFTR_en_DTP_CMYK_gef_durch.jpg" hight="100"> <img src="https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/funding_EU.png" hight="100">
 
 [![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
 
 
 
