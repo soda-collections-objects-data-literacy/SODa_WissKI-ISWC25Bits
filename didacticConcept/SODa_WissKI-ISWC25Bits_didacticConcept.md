@@ -7,7 +7,7 @@ contributor: Elias Tzortzakakis (https://orcid.org/0009-0000-5128-1525)
 license: CC BY 4.0
 license_link: https://creativecommons.org/licenses/by/4.0/
 email: soda@sammlungen.io
-version: v1.0.0
+version: 1.0.0
 language: ENG
 target_group: SODa researcher
 format: SODa WissKI How-to-Tutorial
@@ -210,6 +210,7 @@ The CoVHer Repository ( repository.covher.eu) showcases a strong WissKI-based im
 <img src="https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/funding_EU.png" width="150">
 
 [![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
 
 
 
