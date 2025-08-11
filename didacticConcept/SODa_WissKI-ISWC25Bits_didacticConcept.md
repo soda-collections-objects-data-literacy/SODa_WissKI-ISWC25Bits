@@ -14,7 +14,7 @@ format: SODa WissKI How-to-Tutorial
 learning: Demonstrative Learning and Learning by Doing
 keywords: WissKI, SODa, FAIR, Semantic Web, Research Data Management
 icon: https://raw.githubusercontent.com/soda-collections-objects-data-literacy/liascript-oers/refs/heads/main/resources/SODa-Logo_full.svg
-link: https://raw.githubusercontent.com/soda-collections-objects-data-literacy/liascript-oers/refs/heads/main/resources/soda.css
+link: https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODa_WissKI-ISWC25Bits/refs/heads/main/soda.css
 -->
 
 # SODa WissKI-ISWC25 Bits
@@ -208,4 +208,5 @@ The CoVHer Repository ( repository.covher.eu) showcases a strong WissKI-based im
 <img src="https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/funding_EU.png" width="150">
 
 [![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
 
