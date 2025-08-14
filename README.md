@@ -1,4 +1,7 @@
-# SODa_WissKI-ISWC25Bits
+# SODa_WissKI-ISWC25Bits  
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://zenodo.org/records/16846835)
+
 
 ## Detailed Description
 
@@ -53,4 +56,5 @@ framework for sustainable data modeling and publication.
 13. Hastik, C., Fichtner, M. and Schwenk, G. (2025) WissKI Unterstützungsangebot: SWOT-Analyse und Auswertung, https://zenodo.org/records/15274046
 
 [![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
 
