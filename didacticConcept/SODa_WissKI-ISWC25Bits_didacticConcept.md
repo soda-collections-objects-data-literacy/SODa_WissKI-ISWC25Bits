@@ -211,6 +211,8 @@ The CoVHer Repository ( repository.covher.eu) showcases a strong WissKI-based im
 
 [![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://zenodo.org/records/16846835)
+
 
 
 
