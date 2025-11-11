@@ -20,13 +20,17 @@ Einheit 1: **Ablauf und Warm-up**
 ## Begrüßung
 
 
-> **Herzlich willkommen zum How-to-Tutorial _SODa WissKI Bits: Ontologiegestützte Modellierung von Forschungsdaten_.**
+
+> Dieses How-to-Tutorial *SODa WissKI Bits: Ontologiegestützte Modellierung von Forschungsdaten* bietet eine praxisorientierte Einführung in die Arbeit und Analyse mit strukturierten Forschungsdaten.  
 >
-> In diesem **Modul 2 DATENMODELL ENTWICKELN UND IMPLEMENTIEREN AM BEISPIEL** wird auf Basis eines in **Draw.io** erstellten semantischen Modells eine **WissKI Pathbuilder-Datei** generiert. Damit wird eine konzeptionelle Ontologie in eine in WissKI nutzbare **Graphenstruktur** überführt, die der **Arbeit und Analyse mit strukturierten (graphbasierten) Daten** dient.
+> Im **Modul 2: *Datenmodell entwickeln und implementieren am Beispiel*** wird aus einem in *Draw.io* erstellten semantischen Modell eine *WissKI Pathbuilder*-Datei generiert.  
+> Auf diese Weise wird eine konzeptionelle Ontologie in eine in WissKI nutzbare Graphstruktur überführt, die als Grundlage für die Arbeit und Analyse graphbasierten Forschungsdaten dient.  
 >
-> Dieses Modul ist als **How-to-Tutorial** konzipiert, das nach dem Prinzip des **Learning by Doing** Schritt für Schritt in das praktische Arbeiten mit strukturierten, semantisch verknüpften Daten in WissKI einführt.
+> Das Modul ist als **How-to-Tutorial** konzipiert und führt nach dem Prinzip des *Learning by Doing* Schritt für Schritt in das praktische Arbeiten mit strukturierten, semantisch verknüpften Daten in WissKI ein.  
 >
-> In den **weiterführenden Einheiten** wird dieser anleitende Ansatz um **selbstgesteuerte Lernphasen** erweitert, in denen die Teilnehmenden ihr Wissen eigenständig vertiefen, eigene Forschungsdaten modellieren sowie die semantischen Strukturen kritisch analysieren und weiterentwickeln.
+> In den **weiterführenden Einheiten** wird dieser anleitende Ansatz um **selbstgesteuerte Lernphasen** ergänzt,  
+> in denen die Teilnehmenden ihr Wissen vertiefen, eigene Forschungsdaten modellieren und die erlernten Methoden auf ihre individuellen Forschungskontexte anwenden.
+
 
 ---
 
