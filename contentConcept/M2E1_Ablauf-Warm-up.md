@@ -89,12 +89,12 @@ Hier setzt **WissKI** mit seiner Ontologie- und Linked-Open-Data-Orientierung so
 
 Entwickelt wurde das Tutorial von:
 
-<img src="../assets/schwenk.jpg" alt="Gudrun" style="width:100px; height:auto;"> <img src="../assets/fichtner.jpg" alt="Mark" style="width:100px; height:auto;"> <img src="../assets/hastik.jpg" alt="Canan" style="width:100px; height:auto;">
+<img src="../img/schwenk.jpg" alt="Gudrun" style="width:100px; height:auto;"> <img src="../assets/fichtner.jpg" alt="Mark" style="width:100px; height:auto;"> <img src="../img/hastik.jpg" alt="Canan" style="width:100px; height:auto;">
 
 
 Unterstützt hat **Elias** mit einer Pipeline, mit der es möglich ist, Draw.io-Diagramme in XML-Pfade für den WissKI Pathbuilder zu konvertieren.
 
-<img src="../assets/elias.png" alt="Elias" style="width:100px; height:auto;">
+<img src="../img/elias.png" alt="Elias" style="width:100px; height:auto;">
 
 
 
@@ -106,7 +106,7 @@ Damit wird es ermöglich, Domänenspezifische **Anwendungsprofile** automatisch 
 
 Interaktive Mentimeter-Umfrage zur Erfassung von Erwartungen, Vorkenntnissen und bisherigen Erfahrungen mit WissKI und semantischer Datenmodellierung.
 
-![Mentimeter Umfrage](../assets/Erwartungsabfrage.png) 
+![Mentimeter Umfrage](../img/Erwartungsabfrage.png) 
 
 
 ### Fragen 
