@@ -25,7 +25,7 @@ Dieser Modellierungsschritt ist **nicht nur eine visuelle Übung** – das Diagr
 
 Das Draw.io-Diagramm wird dabei als **XML-Datei** exportiert und enthält bereits strukturierte Informationen zu **Klassen, Relationen und Gruppen**. Dadurch kann es **automatisiert weiterverarbeitet** und in **WissKI-Pathbuilder-Strukturen** überführt werden.
 
-**Draw.io** unterstützt dabei...
+## Draw.io unterstützt dabei...
 
 * **Entitätsklassen und ihre Beziehungen** festzulegen,  
 * **kollaborativ und transparent** gemeinsam zu modellieren,  
@@ -76,11 +76,11 @@ In Modul 1 wurde die konzeptionelle Grundlage des Beispiel-Datenmodells entwicke
 Modelliert wird ein semantisches Modell in Draw.io als Grundlage für die Erstellung von Pfaden im WissKI Pathbuilder.
 Hierfür werden die Kernentitäten und ihre Beziehungen der Beispieldomäne semantisch korrekt auf Basis des CIDOC CRM visualisiert.
 
-**Beispielergebnisse**
+**Beispielergebnis**
 
 <table>
   <tr>
-    <td><img src="../img/SODa_Modul2.drawio.png" alt="Visuelle Repräsentation" width="75%"></td>
+    <td><img src="../img/SODa_Modul2.drawio.png" alt="Visuelle Repräsentation" width="100%"></td>
   </tr>
 </table>
 
@@ -88,7 +88,7 @@ Hierfür werden die Kernentitäten und ihre Beziehungen der Beispieldomäne sema
 
 ## Anforderungen an das Arbeiten mit Draw.io
 
-* Es werden keine individuellen Instanzen abgebildet (nur Klassen/Typen).
+* Es werden keine individuellen Instanzen abgebildet.
 * Es werden die domänenspezifischen Subklassen aus der bereits erstellten Domänenontologie verwendet.
 * Die semantischen Relationen sind aus dem CIDOC CRM abzuleiten.
 * Es sind vollständige Pfade zu erstellen.
@@ -98,7 +98,9 @@ Hierfür werden die Kernentitäten und ihre Beziehungen der Beispieldomäne sema
 
 ## Aufgabe (Partnerarbeit – 20 Min.)
 
-Das bereitgestellte Diagramm enthält gezielte Lücken (fehlende Knoten/Beziehungen), die zu ergänzen sind. Der Umfang und die Schwierigkeit variieren je nach Aufgabe (Anfänger/Experten).
+Das bereitgestellte Diagramm enthält gezielte Lücken (fehlende Knoten/Beziehungen), die zu ergänzen sind. 
+
+Der Umfang und die Schwierigkeit variieren je nach Aufgabe (Anfänger/Experten).
 Lücken sind durch geeignete Klassen und passende Properties zu schließen; temporäre Platzhalter (???) sind nach der Ergänzung zu entfernen.
 
 * Die vorbereitete Draw.io-Datei runterladen (hier: https://github.com/soda-collections-objects-data-literacy/SODa_WissKI-ISWC25Bits  in "contentConcept/assets"; Für Anfänger "Gruppe_A.drawio.xml" und für Experten "Gruppe_E.drawio.xml")
@@ -107,8 +109,6 @@ Lücken sind durch geeignete Klassen und passende Properties zu schließen; temp
 
 **Ressourcen**
 
-* Für Anfänger: https://github.com/soda-collections-objects-data-literacy/SODa_WissKI-ISWC25Bits/blob/main/contentConcept/assets/Gruppe_A.drawio.xml
-* Für Experten: https://github.com/soda-collections-objects-data-literacy/SODa_WissKI-ISWC25Bits/blob/main/contentConcept/assets/Gruppe_E.drawio.xml
 * Domänenontologie: [http://games.m-e-g-a.org/game_domain.rdf](http://games.m-e-g-a.org/game_domain.rdf)
 * Für semantische Beziehungen: PDF-Datei: [https://cidoc-crm.org/sites/default/files/cidoc_crm_version_7.1.3.pdf](https://cidoc-crm.org/sites/default/files/cidoc_crm_version_7.1.3.pdf) und HTML-Link: [https://cidoc-crm.org/html/cidoc_crm_v7.1.3.html](https://cidoc-crm.org/html/cidoc_crm_v7.1.3.html)
 
