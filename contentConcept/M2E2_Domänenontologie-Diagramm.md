@@ -17,19 +17,23 @@ Einheit 2: **Visualisierung eines Domänenontologie-Diagramms**
 
 ---
 
-## Warum Draw.io?
+## Warum Draw.io ?
 
-Visualisierungen sind ein bedeutender Zwischenschritt und ein wesentliches Werkzeug, um Modellierungsentscheidungen zu kommunizieren, auszuhandeln und ein gemeinsames Verständnis über semantische Strukturen zu fördern.
+**Visualisierungen** sind ein bedeutender Zwischenschritt und ein wesentliches Werkzeug, um **Modellierungsentscheidungen zu kommunizieren, auszuhandeln und ein gemeinsames Verständnis semantischer Strukturen zu fördern.**
 
-Dieser Modellierungsschritt ist nicht nur eine visuelle Übung – das Diagramm ist Vorraussetzung für die (halb-)automatisierten Pipeline zur Herstellung eines Pathbuilders in WissKI. 
+Dieser Modellierungsschritt ist **nicht nur eine visuelle Übung** – das Diagramm bildet die **Voraussetzung für die (halb-)automatisierte Pipeline** zur Erstellung eines **Pathbuilders** in WissKI.
 
+Das Draw.io-Diagramm wird dabei als **XML-Datei** exportiert und enthält bereits strukturierte Informationen zu **Klassen, Relationen und Gruppen**. Dadurch kann es **automatisiert weiterverarbeitet** und in **WissKI-Pathbuilder-Strukturen** überführt werden.
 
-**Draw.io unterstützt darin…**
+**Draw.io** unterstützt dabei...
 
-* Entitätsklassen und ihre Beziehungen festzulegen.
-* kollaborativ und transparent gemeinsam zu modellieren.
-* die Domänenontologie und die Logik sichtbar zu machen und zu diskutieren.
-* die Ontologiestruktur vor der Implementierung in WissKI zu testen.  
+* **Entitätsklassen und ihre Beziehungen** festzulegen,  
+* **kollaborativ und transparent** gemeinsam zu modellieren,  
+* die **Domänenontologie und ihre semantische Logik** sichtbar zu machen und zu diskutieren,  
+* die **Ontologiestruktur vor der Implementierung in WissKI** zu prüfen und zu validieren,  
+* und als **Reflexions- und Qualitätssicherungsinstrument** für semantische Entscheidungen zu dienen.
+
+Besonders in kollaborativen Projekten erleichtert Draw.io die **Abstimmung zwischen Fachexpert*innen, Datenmodellierenden und Entwickler*innen**, da semantische Entscheidungen visuell nachvollziehbar und dokumentierbar bleiben.
 
 ---
 
