@@ -89,7 +89,7 @@ Hier setzt **WissKI** mit seiner Ontologie- und Linked-Open-Data-Orientierung so
 
 Entwickelt wurde das Tutorial von:
 
-<img src="../img/schwenk.jpg" alt="Gudrun" style="width:100px; height:auto;"> <img src="../assets/fichtner.jpg" alt="Mark" style="width:100px; height:auto;"> <img src="../img/hastik.jpg" alt="Canan" style="width:100px; height:auto;">
+<img src="../img/schwenk.jpg" alt="Gudrun" style="width:100px; height:auto;"> <img src="../img/fichtner.jpg" alt="Mark" style="width:100px; height:auto;"> <img src="../img/hastik.jpg" alt="Canan" style="width:100px; height:auto;">
 
 
 Unterstützt hat **Elias** mit einer Pipeline, mit der es möglich ist, Draw.io-Diagramme in XML-Pfade für den WissKI Pathbuilder zu konvertieren.
