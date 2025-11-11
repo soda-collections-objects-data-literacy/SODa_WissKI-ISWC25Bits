@@ -46,10 +46,10 @@ In Modul 1 wurde die konzeptionelle Grundlage des Beispiel-Datenmodells entwicke
 
 | Darstellung | Beschreibung |
 |------------|--------------|
-| **Objekt** | ![Zelda Spiel](../assets/zelda_smal.png) |
+| **Objekt** | ![Zelda Spiel](../img/zelda_smal.png) |
 | **Semantische Annahme** | Titel des Objekts: *The Legend of Zelda: A Link to the Past* |
-| **Draw.io Modell** | ![draw.io Diagramm](../assets/drawio_modell.png) |
-| **WissKI Pathbuilder** | ![WissKI Pathbuilder](../assets/pathbuilder.PNG) |
+| **Draw.io Modell** | ![draw.io Diagramm](../img/drawio_modell.png) |
+| **WissKI Pathbuilder** | ![WissKI Pathbuilder](../img/pathbuilder.PNG) |
 
 ### Auswahl und Festlegung von Kernentitäten 
 
