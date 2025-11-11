@@ -58,18 +58,19 @@ Dieser Prozess überbrückt die Lücke zwischen der Modellierung einer Domäneno
 
 ## Praktische Aufgabe (Partnerarbeit – 20 Min.)
 
-| Nr. | Schrittbeschreibung | Grafik |
-| --- | ------------------- | ------- |
-| 1 | Export des Draw.io-Modells ([Beispiel-Draw.io-Diagramm](https://drive.google.com/file/d/1CzgpEMxGYmfUgI2LUh0J-cbfsfW82T3f/view?usp=sharing)) als .xml-Datei ([Beispiel-Draw.io-XML-Datei](https://isl.ics.forth.gr/gnm_services/files/examples/diagrams_to_pathbuilders/DrawioPathBuilderExampleInput.xml)) | ![Platzhalter](../assets/schritt1.png) |
-| 2 | Hochladen in [Draw.io-Diagramme-zu-WissKI-Pathbuilder-Webdienst](https://isl.ics.forth.gr/gnm_services/drawioXMLtoWisskiPathbuilder/) | ![Platzhalter](../assets/schritt2.png) |
-| 3 | Pathbuilder-XML-Datei generieren und Link-Adresse kopieren ([Beispiel-Pathbuilder-XML-Datei](https://isl.ics.forth.gr/gnm_services/files/examples/diagrams_to_pathbuilders/DrawioPathBuilderExampleOutput.xml)) | ![Platzhalter](../assets/schritt3.png) |
-| 4 | In WissKI einloggen | ![Platzhalter](../assets/schritt4.png) |
-| 5 | Prüfen, ob in WissKI bereits CIDOC CRM geladen ist, siehe „Configuration/Ontology/Default WissKI Distillery Adapter“ | ![Platzhalter](../assets/schritt5.png) |
-| 6 | Zu „Configuration/Pathbuilder“ navigieren | ![Platzhalter](../assets/schritt6.png) |
-| 7 | Neuen Pathbuilder hinzufügen „Add Pathbuilder“, Name vergeben und speichern | ![Platzhalter](../assets/schritt7.png) |
-| 8 | Unter „Pathbuilder Definition Import“ zuvor kopierte Link-Adresse einfügen und „Import“ klicken | ![Platzhalter](../assets/schritt8.png) |
-| 9 | Die erzeugten semantischen Pfade prüfen | ![Platzhalter](../assets/schritt9.png) |
-|10| Ergebnis: WissKI Pathbuilder auf Basis des eigenen Domänenmodells||
+| Nr. | Schrittbeschreibung |
+| --- | ------------------- |
+| 1 | Export des Draw.io-Modells ([Beispiel-Draw.io-Diagramm](https://drive.google.com/file/d/1CzgpEMxGYmfUgI2LUh0J-cbfsfW82T3f/view?usp=sharing)) als .xml-Datei ([Beispiel-Draw.io-XML-Datei](https://isl.ics.forth.gr/gnm_services/files/examples/diagrams_to_pathbuilders/DrawioPathBuilderExampleInput.xml)) |
+| 2 | Hochladen in [Draw.io-Diagramme-zu-WissKI-Pathbuilder-Webdienst](https://isl.ics.forth.gr/gnm_services/drawioXMLtoWisskiPathbuilder/) |
+| 3 | Pathbuilder-XML-Datei generieren und Link-Adresse kopieren ([Beispiel-Pathbuilder-XML-Datei](https://isl.ics.forth.gr/gnm_services/files/examples/diagrams_to_pathbuilders/DrawioPathBuilderExampleOutput.xml)) |
+| 4 | In WissKI einloggen |
+| 5 | Prüfen, ob in WissKI bereits CIDOC CRM geladen ist, siehe „Configuration/Ontology/Default WissKI Distillery Adapter“ |
+| 6 | Zu „Configuration/Pathbuilder“ navigieren |
+| 7 | Neuen Pathbuilder hinzufügen „Add Pathbuilder“, Name vergeben und speichern |
+| 8 | Unter „Pathbuilder Definition Import“ zuvor kopierte Link-Adresse einfügen und „Import“ klicken |
+| 9 | Die erzeugten semantischen Pfade prüfen |
+| 10 | Ergebnis: WissKI Pathbuilder auf Basis des eigenen Domänenmodells |
+
 
 ---
 
