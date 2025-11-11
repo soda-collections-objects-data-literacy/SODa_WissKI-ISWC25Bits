@@ -60,9 +60,9 @@ Dieser Prozess überbrückt die Lücke zwischen der Modellierung einer Domäneno
 
 | Nr. | Schrittbeschreibung |
 | --- | ------------------- |
-| 1 | Export des Draw.io-Modells ([Beispiel-Draw.io-Diagramm](https://drive.google.com/file/d/1CzgpEMxGYmfUgI2LUh0J-cbfsfW82T3f/view?usp=sharing)) als .xml-Datei ([Beispiel-Draw.io-XML-Datei](https://isl.ics.forth.gr/gnm_services/files/examples/diagrams_to_pathbuilders/DrawioPathBuilderExampleInput.xml)) |
-| 2 | Hochladen in [Draw.io-Diagramme-zu-WissKI-Pathbuilder-Webdienst](https://isl.ics.forth.gr/gnm_services/drawioXMLtoWisskiPathbuilder/) |
-| 3 | Pathbuilder-XML-Datei generieren und Link-Adresse kopieren ([Beispiel-Pathbuilder-XML-Datei](https://isl.ics.forth.gr/gnm_services/files/examples/diagrams_to_pathbuilders/DrawioPathBuilderExampleOutput.xml)) |
+| 1 | Export des Draw.io-Modells als .xml-Datei |
+| 2 | Hochladen in "Draw.io diagrams to WissKI pathbuilders" Web Service |
+| 3 | Pathbuilder-XML-Datei generieren und Link-Adresse kopieren  |
 | 4 | In WissKI einloggen |
 | 5 | Prüfen, ob in WissKI bereits CIDOC CRM geladen ist, siehe „Configuration/Ontology/Default WissKI Distillery Adapter“ |
 | 6 | Zu „Configuration/Pathbuilder“ navigieren |
@@ -71,6 +71,13 @@ Dieser Prozess überbrückt die Lücke zwischen der Modellierung einer Domäneno
 | 9 | Die erzeugten semantischen Pfade prüfen |
 | 10 | Ergebnis: WissKI Pathbuilder auf Basis des eigenen Domänenmodells |
 
+
+### Ressourcen
+
+* ([Beispiel-Draw.io-Diagramm](https://drive.google.com/file/d/1CzgpEMxGYmfUgI2LUh0J-cbfsfW82T3f/view?usp=sharing))
+* ([Beispiel-Draw.io-XML-Datei](https://isl.ics.forth.gr/gnm_services/files/examples/diagrams_to_pathbuilders/DrawioPathBuilderExampleInput.xml))
+* [Draw.io diagrams to WissKI pathbuilders](https://isl.ics.forth.gr/gnm_services/)
+* ([Beispiel-Pathbuilder-XML-Datei](https://isl.ics.forth.gr/gnm_services/files/examples/diagrams_to_pathbuilders/DrawioPathBuilderExampleOutput.xml))
 
 ---
 
