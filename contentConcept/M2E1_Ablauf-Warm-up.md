@@ -87,7 +87,7 @@ Mehr als 1.200 wissenschaftliche Sammlungen in Deutschland bilden eine wesentlic
 - disziplinäre Weiterentwicklung
 - akademische Lehre.
 
-Damit diese Sammlungen und Daten langfristig nutzbar bleiben, benötigen sie **strukturierte und interoperable Datenmodelle**.  
+Damit diese Sammlungen und Daten langfristig nutzbar bleiben, benötigen diese **strukturierte und interoperable Daten und Datenmodelle**.  
 
 Hier setzt **WissKI** mit seiner Ontologie- und Linked-Open-Data-Orientierung sowie der Gewährleistung der FAIR-Prinzipien an.
 
@@ -114,8 +114,7 @@ Damit wird es ermöglich, Domänenspezifische **Anwendungsprofile** automatisch 
 
 Interaktive Mentimeter-Umfrage zur Erfassung von Erwartungen, Vorkenntnissen und bisherigen Erfahrungen mit WissKI und semantischer Datenmodellierung.
 
-![Mentimeter Umfrage](../img/Erwartungsabfrage.png) 
-
+<img src="../img/Erwartungsabfrage.png" alt="Mentimeter Umfrage" style="width:400px; height:auto;">
 
 ### Fragen 
 
