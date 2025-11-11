@@ -19,6 +19,7 @@ Einheit 1: **Ablauf und Warm-up**
 
 ## Begrüßung
 
+
 > **Herzlich willkommen zum How-to-Tutorial _SODa WissKI Bits: Ontologiegestützte Modellierung von Forschungsdaten_.**
 >
 > In diesem **Modul 2 DATENMODELL ENTWICKELN UND IMPLEMENTIEREN AM BEISPIEL** wird auf Basis eines in **Draw.io** erstellten semantischen Modells eine **WissKI Pathbuilder-Datei** generiert. Damit wird eine konzeptionelle Ontologie in eine in WissKI nutzbare **Graphenstruktur** überführt, die der **Arbeit und Analyse mit strukturierten (graphbasierten) Daten** dient.
@@ -28,7 +29,9 @@ Einheit 1: **Ablauf und Warm-up**
 > In den **weiterführenden Einheiten** wird dieser anleitende Ansatz um **selbstgesteuerte Lernphasen** erweitert, in denen die Teilnehmenden ihr Wissen eigenständig vertiefen, eigene Forschungsdaten modellieren sowie die semantischen Strukturen kritisch analysieren und weiterentwickeln.
 
 ---
+
 ## Ablauf des Moduls
+
 
 **Modul 2: 90 Min.**
 
@@ -40,6 +43,7 @@ Einheit 1: **Ablauf und Warm-up**
 | 3 | WissKI Pathbuilder-Datei erzeugen | 25 Min. |
 | 4 | Weiterführende Modulthemen| 5 Min. |
 | 5 | Austausch & Feedback | 15 Min. |
+
 
 ---
 
