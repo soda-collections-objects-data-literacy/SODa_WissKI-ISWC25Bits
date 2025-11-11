@@ -17,7 +17,7 @@ Einheit 2: **Visualisierung eines Domänenontologie-Diagramms**
 
 ---
 
-## Warum in Draw.io arbeiten?
+## Warum Draw.io?
 
 Visualisierungen sind ein bedeutender Zwischenschritt und ein wesentliches Werkzeug, um Modellierungsentscheidungen zu kommunizieren, auszuhandeln und ein gemeinsames Verständnis über semantische Strukturen zu fördern.
 
