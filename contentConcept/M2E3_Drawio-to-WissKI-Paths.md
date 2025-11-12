@@ -7,9 +7,9 @@ link: https://raw.githubusercontent.com/soda-collections-objects-data-literacy/S
 
 # SODa WissKI Bits 
 
-**Modul 2: DATENMODELL ENTWICKELN UND IMPLEMENTIEREN AM BEISPIEL** 
+**DATENMODELL ENTWICKELN UND IMPLEMENTIEREN AM BEISPIEL** 
 
-Vom Diagramm zu Pfaden – Erläutern und anwenden
+Modul 2: **Vom Diagramm zu Pfaden – Erläutern und anwenden**
 
 Einheit 3: **WissKI Pathbuilder-Datei erzeugen**
 
