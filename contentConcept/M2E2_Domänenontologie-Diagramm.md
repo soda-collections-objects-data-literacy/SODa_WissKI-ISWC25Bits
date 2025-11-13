@@ -100,12 +100,12 @@ Hierfür werden die Kernentitäten und ihre Beziehungen der Beispieldomäne sema
 
 Das bereitgestellte Diagramm enthält gezielte Lücken (fehlende Knoten/Beziehungen), die zu ergänzen sind. 
 
-Der Umfang und die Schwierigkeit variieren je nach Aufgabe (Anfänger/Experten).
 Lücken sind durch geeignete Klassen und passende Properties zu schließen; temporäre Platzhalter (???) sind nach der Ergänzung zu entfernen.
 
 * Die vorbereitete Draw.io-Datei runterladen (hier: https://github.com/soda-collections-objects-data-literacy/SODa_WissKI-ISWC25Bits  in "contentConcept/assets"; Für Anfänger "Gruppe_A.drawio.xml" und für Experten "Gruppe_E.drawio.xml")
 * Die heruntergeladene Draw.io-Datei in Draw.io importieren (hier: https://app.diagrams.net/)
-* Das Domänenontologie-Diagramm vervollständigen  
+* Das Domänenontologie-Diagramm vervollständigen
+* Attributwerte an Startknoten, jedem Gruppenknoten und Endknoten prüfen
 
 **Ressourcen**
 
