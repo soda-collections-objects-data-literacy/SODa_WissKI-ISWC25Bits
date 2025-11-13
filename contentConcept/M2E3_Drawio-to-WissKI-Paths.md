@@ -19,9 +19,9 @@ Dauer: ~ 25 Min.
 
 ## Der WissKI Pathbuilder
 
-Der Pathbuilder bildet die Implementierungsschicht von WissKI.
+Der Pathbuilder bildet die **Implementierungsschicht von WissKI**.
 
-Anstelle klassischer, relationaler Datenbanktabellen arbeitet WissKI mit semantischen Pfaden, die aus Ontologiebeziehungen konstruiert werden. Diese Pfade definieren die interne Ontologiestruktur von WissKI und steuern, wie Daten erfasst, gespeichert und verknüpft werden.
+Anstelle klassischer, relationaler Datenbanktabellen arbeitet WissKI mit semantischen Pfaden, die aus Ontologiebeziehungen konstruiert werden. Diese **Pfade definieren die interne Ontologiestruktur von WissKI** und steuern, wie Daten erfasst, gespeichert und verknüpft werden.
 
 Im Gegensatz zu einer Ontologie-Datei (z. B. in RDF oder OWL), die Konzepte und Beziehungen nur beschreibt, übersetzt der Pathbuilder diese semantischen Strukturen in konkrete, implementierbare Pfade, die in WissKI für folgende Zwecke genutzt werden:
 
@@ -31,7 +31,7 @@ Im Gegensatz zu einer Ontologie-Datei (z. B. in RDF oder OWL), die Konzepte und 
 
 Jede semantische Beziehungskette – also eine Sequenz aus Ontologie-Properties – wird dabei im Pathbuilder als Pfad abgebildet.
 
-Mehrere zusammengehörige Pfade werden zu Pfadgruppen organisiert, die wiederum Entitäten (z. B. Personen, Objekte, Ereignisse) repräsentieren.
+Mehrere **zusammengehörige Pfade werden zu Pfadgruppen organisiert**, die wiederum Entitäten (z. B. Personen, Objekte, Ereignisse) repräsentieren.
 
 <table>
   <tr>
