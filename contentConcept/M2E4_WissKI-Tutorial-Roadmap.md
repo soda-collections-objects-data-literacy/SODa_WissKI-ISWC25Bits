@@ -21,14 +21,21 @@ Dauer: ~ 10 Min.
 
 Mit der Erstellung von semantischen Pfaden wurde eine grundlegende Struktur einer WissKI-Instanz aufgebaut.
 
-Damit ist der Übergang von der konzeptionellen Modellierung zur praktischen Anwendung abgeschlossen – WissKI kann nun als semantische Forschungsumgebung genutzt werden.
+Damit ist der Übergang von der konzeptionellen Modellierung zur praktischen Anwendung abgeschlossen – WissKI kann nun als semantische Forschungsumgebung genutzt und anforderungsspezifisch weiterentwickelt werden.
 
 In den kommenden Modulen werden folgende Themen weiter vertieft:
 
-* Erweiterte WissKI-Konfiguration – Anpassung von Bundles, Feldern und Formularlogiken 
-* Datenimport und -integration – Nutzung externer Ontologien und RDF-Quellen zur Erweiterung des WissKI-Wissensgraphen
-* SPARQL-Analyse und Abfragen – gezielte Abfrage und Auswertung semantischer Daten
-* Datenpublikation und Linked-Data-Export – Bereitstellung von WissKI-Daten über standardisierte Schnittstellen
-* ...
+**WissKI Data Editor** für...
+
+* Dateneingabe, -import und -anreicherung 
+* Datenintegration, Qualitätssicherung und Standardisierung
+* Datensuche und -abfrage
+* Datenpublikation als Linked Open Data
+
+**WissKI Technisches admin Personal** für die (erweiterte) WissKI-Konfiguration, wie 
+
+* Anpassung der Ansichten im Web-Frontend
+* SOLR Search
+
 
 
